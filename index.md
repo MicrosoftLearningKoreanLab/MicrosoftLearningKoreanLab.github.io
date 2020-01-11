@@ -10,7 +10,7 @@ layout: home
 
 - [AZ-900: Azure Fundamentals](Azure%20Learning%20Path/Azure%20Fundamentals%20Learning%20Path%20(Oct%202019).pdf)
 - [AZ-103: Azure Administrator](Azure%20Learning%20Path/Azure%20Administrator%20Learning%20Path%20(Oct%202019).pdf)
-- [AZ-203: Azure Developer](Azure%20Developer%20Learning%20Path%20(Oct%202019).pdf)
+- [AZ-203: Azure Developer](Azure%20Learning%20Path/Azure%20Developer%20Learning%20Path%20(Oct%202019).pdf)
 
 ## 교육 실습 안내 (강사 데모 / 수강생 실습용)
 
