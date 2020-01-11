@@ -1,0 +1,17 @@
+remote_theme: MicrosoftLearning/Jekyll-Theme
+exclude:
+  - README.md
+  - .github/
+header_pages:
+  - index.html
+author: Korean MSLearn Translators
+twitter_username: mslearning
+github_username:  MicrosoftLearningKoreanLab
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
