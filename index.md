@@ -6,6 +6,11 @@ layout: home
 
 # MS 학습 / 트레이닝 관련 자료
 
+![logo](https://avatars3.githubusercontent.com/u/55124648?s=100&v=4)
+
+- https://github.com/MicrosoftLearning/ 의 컨텐츠를 한글화하여 보다 많은 한국인이 Azure에 친숙해 질 수 있도록 번역하는 프로젝트
+- 아래 목록에서 확인하실 수 있습니다.
+
 ## Azure 학습 경로
 
 - [AZ-900: Azure Fundamentals](Azure%20Learning%20Path/Azure%20Fundamentals%20Learning%20Path%20(Oct%202019).pdf)
